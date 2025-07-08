@@ -63,5 +63,6 @@ export const siteConfig = {
     github: "https://github.com/romanglitch/i-dont-do-it",
     twitter: "",
     discord: "",
+    sponsor: ""
   },
 };
