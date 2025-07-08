@@ -61,6 +61,7 @@ export const siteConfig = {
   ],
   links: {
     github: "https://github.com/romanglitch/i-dont-do-it",
-    twitter: ""
+    twitter: "",
+    discord: "",
   },
 };
